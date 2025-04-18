@@ -1,0 +1,9 @@
+{
+    "target": "scanme.nmap.org",
+    "open_ports": [
+        {
+            "port": 80,
+            "banner": "HTTP/1.1 400 Bad Request\r\nDate: Fri, 18 Apr 2025 20:05:42 GMT\r\nServer: Apache/2.4.7 (Ubuntu)\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1"
+        }
+    ]
+}
